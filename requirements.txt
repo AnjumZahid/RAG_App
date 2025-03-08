@@ -1,5 +1,0 @@
-streamlit
-pdfplumber
-langchain_community
-langchain_ollama
-langchain_core
